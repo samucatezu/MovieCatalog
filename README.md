@@ -1,4 +1,4 @@
-# Curso Intermediário de Angular - Digital Innovation One
+# Catálogo de filmes 
 
 Esse curso foi feito para a plataforma [Digital Innovation One](https://digitalinnovation.one/)
 
