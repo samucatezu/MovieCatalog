@@ -20,14 +20,14 @@ O curso consiste em um sistema de filmes, com a possibilidade de cadastros, edi�
 
 ## Vídeos e imagens da aplicação
 
-![Retorno da realização do cadastro](AngularAdvanced\ReadMe\RetornoModal.png)
+![Retorno da realização do cadastro](E:\Workspace\AngularAdvanced\ReadMe\RetornoModal.png)
 
-![Video demonstrativo](AngularAdvanced\ReadMe\VideoDemonstrativo.mp4)
+![Video demonstrativo](E:\Workspace\AngularAdvanced\ReadMe\VideoDemonstrativo.mp4)
 
 
 ## Instalação
 
-1. clone o repositório `git clone git@github.com:RenanRB/curso-angular.git`
+1. clone o repositório 
 2. Entre no projeto e instale as dependencias `npm install`
 
 ## Ambiente Local
