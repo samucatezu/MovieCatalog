@@ -20,10 +20,7 @@ O curso consiste em um sistema de filmes, com a possibilidade de cadastros, edi�
 
 ## Vídeos e imagens da aplicação
 
-![Retorno da realização do cadastro](E:\Workspace\AngularAdvanced\ReadMe\RetornoModal.png)
-
-![Video demonstrativo](E:\Workspace\AngularAdvanced\ReadMe\VideoDemonstrativo.mp4)
-
+![Retorno da realização do cadastro](E:\Workspace\AngularAdvanced\ReadMe\RetornoModal.png?raw=true)
 
 ## Instalação
 
