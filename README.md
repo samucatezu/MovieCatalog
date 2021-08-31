@@ -4,6 +4,13 @@ Esse curso foi feito para a plataforma [Digital Innovation One](https://digitali
 
 O curso consiste em um sistema de filmes, com a possibilidade de cadastros, edições, listagem e visualização dos filmes.
 
+## Screenshots
+
+<img src="https://user-images.githubusercontent.com/86020448/131425234-81290d69-6dc1-4605-b21a-70bc99c987c9.png" width="400"/> 
+<img src="https://user-images.githubusercontent.com/86020448/131425387-b16bb594-4634-4044-b51c-c71d1d1342db.png" width="400"/>
+<img src="https://user-images.githubusercontent.com/86020448/131426651-1f15be6b-09d0-4b48-8d43-e5042faba9e2.png" width="400"/>
+
+
 ## Recursos e linguagens utilizadas
 
  - principíos [S.O.L.I.D](https://www.bmc.com/blogs/solid-design-principles/#:~:text=SOLID%20is%20a%20popular%20set,principle%2C%20and%20dependency%20inversion%20principle.)
